@@ -1,0 +1,2 @@
+# Digit-Recognition
+This project is about solving the classification problem of around 73MB of data found on Kaggle.com and rightly classifying the pixel data of tens of thousands of images, of hand drawn digits to one of the 10 digits from 0 through 9. Each image is vectorized with 28 pixels in height and 28 pixels in width for a total of 784 pixels. Each pixel has a single pixel value associated with it ranging from 0 and 255, inclusive.
